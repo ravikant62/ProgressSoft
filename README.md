@@ -9,6 +9,8 @@ Application is accessible at :
 1. Upload page - http://localhost:8080/upload
 2. Search page - http://localhost:8080/search  ( Caching implemented )
 
+Setup MySQL on your local environment. Create schema "deals".
+
 # Technology Used
 
 Java 8 , Spring boot 1.5.10 , Maven 3.5.0 , Spring boot JPA  , Spring boot thymeleaf , Spring Caching , MySQL           
