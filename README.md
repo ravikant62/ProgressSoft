@@ -2,7 +2,7 @@
 
 # How to build/run it
 
-Setup MySQL on your local environment. Create schema "deals . 
+Setup MySQL on your local environment. Create schema "deals .       
 This is a maven project built with maven 3.5.0,Java version: 1.8.0_131  .  
 Project can be built using command line : mvn clean install  .   
 To run the application using command line : mvn spring-boot:run .  
